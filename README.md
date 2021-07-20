@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Spring Boot Framework
 - 🌱 I’m currently learning ... Spring Boot Security
-- 👯 I’m looking to collaborate on ... pring Boot
+- 👯 I’m looking to collaborate on ... Spring Boot
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...ilesperane24@gmail.com
